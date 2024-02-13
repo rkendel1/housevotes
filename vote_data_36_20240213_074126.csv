@@ -1,0 +1,446 @@
+majority,R
+congress,118
+session,2nd
+chamber,U.S. House of Representatives
+rollcall-num,36
+legis-num,H R 1727
+vote-question,"On Motion to Suspend the Rules and Pass, as Amended"
+vote-type,2/3 YEA-AND-NAY
+vote-result,Passed
+action-date,6-Feb-2024
+action-time,6:27 PM
+vote-desc,Chesapeake and Ohio Canal National Historical Park Commission Extension Act
+vote-totals,"
+"
+Name ID,Vote,Sort Field,Party,State
+A000370,Yea,Adams,D,NC
+A000055,Yea,Aderholt,R,AL
+A000371,Yea,Aguilar,D,CA
+A000379,Yea,Alford,R,MO
+A000372,Yea,Allen,R,GA
+A000376,Yea,Allred,D,TX
+A000380,Yea,Amo,D,RI
+A000369,Yea,Amodei,R,NV
+A000377,Yea,Armstrong,R,ND
+A000375,Yea,Arrington,R,TX
+A000148,Yea,Auchincloss,D,MA
+B001291,Yea,Babin,R,TX
+B001298,Yea,Bacon,R,NE
+B001307,Yea,Baird,R,IN
+B001306,Yea,Balderson,R,OH
+B001318,Yea,Balint,D,VT
+B001299,Yea,Banks,R,IN
+B001282,Yea,Barr,R,KY
+B001300,Yea,Barragan,D,CA
+B001314,Yea,Bean (FL),R,FL
+B001281,Yea,Beatty,D,OH
+B000668,Yea,Bentz,R,OR
+B001287,Yea,Bera,D,CA
+B001301,Yea,Bergman,R,MI
+B001292,Yea,Beyer,D,VA
+B000740,Yea,Bice,R,OK
+B001302,Yea,Biggs,R,AZ
+B001257,Yea,Bilirakis,R,FL
+B000490,Yea,Bishop (GA),D,GA
+B001311,Yea,Bishop (NC),R,NC
+B000574,Yea,Blumenauer,D,OR
+B001303,Yea,Blunt Rochester,D,DE
+B000825,Yea,Boebert,R,CO
+B001278,Yea,Bonamici,D,OR
+B001295,Yea,Bost,R,IL
+B001223,Yea,Bowman,D,NY
+B001296,Yea,Boyle (PA),D,PA
+B001317,Nay,Brecheen,R,OK
+B001313,Yea,Brown,D,OH
+B001285,Yea,Brownley,D,CA
+B001260,Yea,Buchanan,R,FL
+B001297,Yea,Buck,R,CO
+B001275,Yea,Bucshon,R,IN
+B001315,Yea,Budzinski,D,IL
+B001309,Yea,Burchett,R,TN
+B001248,Yea,Burgess,R,TX
+B001316,Yea,Burlison,R,MO
+B001224,Yea,Bush,D,MO
+C000059,Yea,Calvert,R,CA
+C001039,Yea,Cammack,R,FL
+C001134,Yea,Caraveo,D,CO
+C001112,Yea,Carbajal,D,CA
+C001097,Yea,Cardenas,D,CA
+C001126,Yea,Carey,R,OH
+C001054,Yea,Carl,R,AL
+C001072,Yea,Carson,D,IN
+C001103,Yea,Carter (GA),R,GA
+C001125,Yea,Carter (LA),D,LA
+C001051,Yea,Carter (TX),R,TX
+C001090,Yea,Cartwright,D,PA
+C001131,Yea,Casar,D,TX
+C001055,Yea,Case,D,HI
+C001117,Yea,Casten,D,IL
+C001066,Yea,Castor (FL),D,FL
+C001091,Yea,Castro (TX),D,TX
+C001135,Yea,Chavez-DeRemer,R,OR
+C001127,Yea,Cherfilus-McCormick,D,FL
+C001080,Yea,Chu,D,CA
+C001133,Yea,Ciscomani,R,AZ
+C001101,Yea,Clark (MA),D,MA
+C001067,Yea,Clarke (NY),D,NY
+C001061,Yea,Cleaver,D,MO
+C001118,Yea,Cline,R,VA
+C001115,Yea,Cloud,R,TX
+C000537,Yea,Clyburn,D,SC
+C001116,Yea,Clyde,R,GA
+C001068,Yea,Cohen,D,TN
+C001053,Yea,Cole,R,OK
+C001129,Yea,Collins,R,GA
+C001108,Yea,Comer,R,KY
+C001078,Yea,Connolly,D,VA
+C001110,Yea,Correa,D,CA
+C001059,Yea,Costa,D,CA
+C001069,Yea,Courtney,D,CT
+C001119,Yea,Craig,D,MN
+C001132,Yea,Crane,R,AZ
+C001087,Yea,Crawford,R,AR
+C001120,Yea,Crenshaw,R,TX
+C001130,Yea,Crockett,D,TX
+C001121,Yea,Crow,D,CO
+C001063,Yea,Cuellar,D,TX
+C001114,Yea,Curtis,R,UT
+D000632,Yea,D'Esposito,R,NY
+D000629,Yea,Davids (KS),D,KS
+D000626,Nay,Davidson,R,OH
+D000096,Yea,Davis (IL),D,IL
+D000230,Yea,Davis (NC),D,NC
+D000594,Yea,De La Cruz,R,TX
+D000631,Yea,Dean (PA),D,PA
+D000197,Yea,DeGette,D,CO
+D000216,Yea,DeLauro,D,CT
+D000617,Yea,DelBene,D,WA
+D000530,Yea,Deluzio,D,PA
+D000623,Yea,DeSaulnier,D,CA
+D000616,Yea,DesJarlais,R,TN
+D000600,Yea,Diaz-Balart,R,FL
+D000624,Yea,Dingell,D,MI
+D000399,Yea,Doggett,D,TX
+D000032,Yea,Donalds,R,FL
+D000633,Yea,Duarte,R,CA
+D000615,Yea,Duncan,R,SC
+D000628,Yea,Dunn (FL),R,FL
+E000246,Yea,Edwards,R,NC
+E000071,Yea,Ellzey,R,TX
+E000294,Yea,Emmer,R,MN
+E000299,Yea,Escobar,D,TX
+E000215,Yea,Eshoo,D,CA
+E000297,Yea,Espaillat,D,NY
+E000298,Yea,Estes,R,KS
+E000296,Yea,Evans,D,PA
+E000235,Yea,Ezell,R,MS
+F000246,Yea,Fallon,R,TX
+F000446,Yea,Feenstra,R,IA
+F000465,Yea,Ferguson,R,GA
+F000475,Yea,Finstad,R,MN
+F000470,Yea,Fischbach,R,MN
+F000471,Yea,Fitzgerald,R,WI
+F000466,Yea,Fitzpatrick,R,PA
+F000459,Yea,Fleischmann,R,TN
+F000468,Yea,Fletcher,D,TX
+F000474,Yea,Flood,R,NE
+F000454,Yea,Foster,D,IL
+F000477,Yea,Foushee,D,NC
+F000450,Yea,Foxx,R,NC
+F000462,Yea,"Frankel, Lois",D,FL
+F000472,Yea,"Franklin, Scott",R,FL
+F000476,Yea,Frost,D,FL
+F000478,Yea,Fry,R,SC
+F000469,Yea,Fulcher,R,ID
+G000578,Yea,Gaetz,R,FL
+G000579,Yea,Gallagher,R,WI
+G000574,Yea,Gallego,D,AZ
+G000559,Yea,Garamendi,D,CA
+G000597,Yea,Garbarino,R,NY
+G000586,Yea,Garcia (IL),D,IL
+G000587,Yea,Garcia (TX),D,TX
+G000061,Yea,"Garcia, Mike",R,CA
+G000598,Yea,"Garcia, Robert",D,CA
+G000593,Yea,Gimenez,R,FL
+G000592,Yea,Golden (ME),D,ME
+G000599,Yea,Goldman (NY),D,NY
+G000585,Yea,Gomez,D,CA
+G000594,Yea,"Gonzales, Tony",R,TX
+G000581,Yea,"Gonzalez, Vicente",D,TX
+G000595,Yea,Good (VA),R,VA
+G000589,Yea,Gooden (TX),R,TX
+G000565,Yea,Gosar,R,AZ
+G000583,Yea,Gottheimer,D,NJ
+G000377,Yea,Granger,R,TX
+G000577,Yea,Graves (LA),R,LA
+G000546,Yea,Graves (MO),R,MO
+G000590,Yea,Green (TN),R,TN
+G000553,Not Voting,"Green, Al (TX)",D,TX
+G000596,Yea,Greene (GA),R,GA
+G000568,Yea,Griffith,R,VA
+G000551,Yea,Grijalva,D,AZ
+G000576,Yea,Grothman,R,WI
+G000591,Yea,Guest,R,MS
+G000558,Yea,Guthrie,R,KY
+H001096,Yea,Hageman,R,WY
+H001090,Yea,Harder (CA),D,CA
+H001052,Yea,Harris,R,MD
+H001086,Yea,Harshbarger,R,TN
+H001081,Yea,Hayes,D,CT
+H001082,Yea,Hern,R,OK
+H001077,Yea,Higgins (LA),R,LA
+H001072,Yea,Hill,R,AR
+H001047,Yea,Himes,D,CT
+H001091,Yea,Hinson,R,IA
+H001066,Yea,Horsford,D,NV
+H001093,Yea,Houchin,R,IN
+H001085,Yea,Houlahan,D,PA
+H000874,Yea,Hoyer,D,MD
+H001094,Yea,Hoyle (OR),D,OR
+H001067,Yea,Hudson,R,NC
+H001068,Yea,Huffman,D,CA
+H001058,Yea,Huizenga,R,MI
+H001095,Yea,Hunt,R,TX
+I000056,Yea,Issa,R,CA
+I000058,Yea,Ivey,D,MD
+J000309,Yea,Jackson (IL),D,IL
+J000308,Yea,Jackson (NC),D,NC
+J000304,Yea,Jackson (TX),R,TX
+J000032,Yea,Jackson Lee,D,TX
+J000305,Yea,Jacobs,D,CA
+J000307,Yea,James,R,MI
+J000298,Yea,Jayapal,D,WA
+J000294,Yea,Jeffries,D,NY
+J000288,Yea,Johnson (GA),D,GA
+J000299,Yea,Johnson (LA),R,LA
+J000301,Yea,Johnson (SD),R,SD
+J000289,Yea,Jordan,R,OH
+J000295,Yea,Joyce (OH),R,OH
+J000302,Yea,Joyce (PA),R,PA
+K000400,Yea,Kamlager-Dove,D,CA
+K000009,Yea,Kaptur,D,OH
+K000398,Yea,Kean (NJ),R,NJ
+K000375,Yea,Keating,D,MA
+K000385,Yea,Kelly (IL),D,IL
+K000388,Yea,Kelly (MS),R,MS
+K000376,Yea,Kelly (PA),R,PA
+K000389,Yea,Khanna,D,CA
+K000399,Yea,Kiggans (VA),R,VA
+K000380,Yea,Kildee,D,MI
+K000401,Yea,Kiley,R,CA
+K000381,Yea,Kilmer,D,WA
+K000397,Yea,Kim (CA),R,CA
+K000394,Yea,Kim (NJ),D,NJ
+K000391,Yea,Krishnamoorthi,D,IL
+K000382,Yea,Kuster,D,NH
+K000392,Yea,Kustoff,R,TN
+L000585,Yea,LaHood,R,IL
+L000598,Yea,LaLota,R,NY
+L000578,Yea,LaMalfa,R,CA
+L000564,Yea,Lamborn,R,CO
+L000601,Yea,Landsman,D,OH
+L000600,Yea,Langworthy,R,NY
+L000560,Yea,Larsen (WA),D,WA
+L000557,Yea,Larson (CT),D,CT
+L000566,Yea,Latta,R,OH
+L000266,Yea,LaTurner,R,KS
+L000599,Yea,Lawler,R,NY
+L000551,Yea,Lee (CA),D,CA
+L000597,Yea,Lee (FL),R,FL
+L000590,Yea,Lee (NV),D,NV
+L000602,Yea,Lee (PA),D,PA
+L000273,Yea,Leger Fernandez,D,NM
+L000589,Yea,Lesko,R,AZ
+L000595,Yea,Letlow,R,LA
+L000593,Yea,Levin,D,CA
+L000582,Yea,Lieu,D,CA
+L000397,Yea,Lofgren,D,CA
+L000583,Yea,Loudermilk,R,GA
+L000491,Yea,Lucas,R,OK
+L000569,Yea,Luetkemeyer,R,MO
+L000596,Yea,Luna,R,FL
+L000603,Yea,Luttrell,R,TX
+L000562,Yea,Lynch,D,MA
+M000194,Yea,Mace,R,SC
+M001223,Yea,Magaziner,D,RI
+M000317,Yea,Malliotakis,R,NY
+M001228,Yea,Maloy,R,UT
+M000871,Yea,Mann,R,KS
+M001135,Yea,Manning,D,NC
+M001184,Yea,Massie,R,KY
+M001199,Yea,Mast,R,FL
+M001163,Yea,Matsui,D,CA
+M001208,Yea,McBath,D,GA
+M001157,Yea,McCaul,R,TX
+M001136,Yea,McClain,R,MI
+M001227,Yea,McClellan,D,VA
+M001177,Yea,McClintock,R,CA
+M001143,Yea,McCollum,D,MN
+M001218,Yea,McCormick,R,GA
+M001220,Yea,McGarvey,D,KY
+M000312,Yea,McGovern,D,MA
+M001156,Yea,McHenry,R,NC
+M001137,Yea,Meeks,D,NY
+M001226,Yea,Menendez,D,NJ
+M001188,Yea,Meng,D,NY
+M001204,Yea,Meuser,R,PA
+M000687,Yea,Mfume,D,MD
+M001211,Yea,Miller (IL),R,IL
+M001222,Yea,Miller (OH),R,OH
+M001205,Yea,Miller (WV),R,WV
+M001215,Yea,Miller-Meeks,R,IA
+M001216,Yea,Mills,R,FL
+M001221,Yea,Molinaro,R,NY
+M001194,Yea,Moolenaar,R,MI
+M001195,Yea,Mooney,R,WV
+M001212,Yea,Moore (AL),R,AL
+M001213,Yea,Moore (UT),R,UT
+M001160,Yea,Moore (WI),D,WI
+M001224,Yea,Moran,R,TX
+M001206,Yea,Morelle,D,NY
+M001217,Yea,Moskowitz,D,FL
+M001196,Yea,Moulton,D,MA
+M001214,Yea,Mrvan,D,IN
+M001225,Yea,Mullin,D,CA
+M001210,Yea,Murphy,R,NC
+N000002,Yea,Nadler,D,NY
+N000179,Yea,Napolitano,D,CA
+N000015,Yea,Neal,D,MA
+N000191,Yea,Neguse,D,CO
+N000026,Yea,Nehls,R,TX
+N000189,Yea,Newhouse,R,WA
+N000194,Yea,Nickel,D,NC
+N000188,Yea,Norcross,D,NJ
+N000190,Yea,Norman,R,SC
+N000193,Yea,Nunn (IA),R,IA
+O000019,Yea,Obernolte,R,CA
+O000172,Yea,Ocasio-Cortez,D,NY
+O000175,Yea,Ogles,R,TN
+O000173,Yea,Omar,D,MN
+O000086,Yea,Owens,R,UT
+P000034,Yea,Pallone,D,NJ
+P000609,Yea,Palmer,R,AL
+P000613,Yea,Panetta,D,CA
+P000614,Yea,Pappas,D,NH
+P000096,Yea,Pascrell,D,NJ
+P000604,Yea,Payne,D,NJ
+P000197,Yea,Pelosi,D,CA
+P000619,Yea,Peltola,D,AK
+P000615,Yea,Pence,R,IN
+G000600,Yea,Perez,D,WA
+P000605,Yea,Perry,R,PA
+P000608,Yea,Peters,D,CA
+P000620,Yea,Pettersen,D,CO
+P000048,Yea,Pfluger,R,TX
+P000616,Yea,Phillips,D,MN
+P000597,Yea,Pingree,D,ME
+P000607,Yea,Pocan,D,WI
+P000618,Yea,Porter,D,CA
+P000599,Yea,Posey,R,FL
+P000617,Yea,Pressley,D,MA
+Q000023,Yea,Quigley,D,IL
+R000617,Yea,Ramirez,D,IL
+R000606,Yea,Raskin,D,MD
+R000610,Yea,Reschenthaler,R,PA
+M001159,Yea,Rodgers (WA),R,WA
+R000575,Yea,Rogers (AL),R,AL
+R000395,Yea,Rogers (KY),R,KY
+R000612,Yea,Rose,R,TN
+R000103,Yea,Rosendale,R,MT
+R000305,Yea,Ross,D,NC
+R000603,Yea,Rouzer,R,NC
+R000614,Yea,Roy,R,TX
+R000599,Yea,Ruiz,D,CA
+R000576,Yea,Ruppersberger,D,MD
+R000609,Yea,Rutherford,R,FL
+R000579,Yea,Ryan,D,NY
+S000168,Yea,Salazar,R,FL
+S001226,Yea,Salinas,D,OR
+S001156,Yea,Sanchez,D,CA
+S001168,Yea,Sarbanes,D,MD
+S001176,Not Voting,Scalise,R,LA
+S001205,Yea,Scanlon,D,PA
+S001145,Yea,Schakowsky,D,IL
+S001150,Yea,Schiff,D,CA
+S001190,Yea,Schneider,D,IL
+S001221,Yea,Scholten,D,MI
+S001216,Yea,Schrier,D,WA
+S001183,Yea,Schweikert,R,AZ
+S000185,Yea,Scott (VA),D,VA
+S001189,Yea,"Scott, Austin",R,GA
+S001157,Yea,"Scott, David",D,GA
+S001224,Yea,Self,R,TX
+S000250,Yea,Sessions,R,TX
+S001185,Yea,Sewell,D,AL
+S000344,Yea,Sherman,D,CA
+S001207,Yea,Sherrill,D,NJ
+S001148,Yea,Simpson,R,ID
+S001208,Yea,Slotkin,D,MI
+S001195,Yea,Smith (MO),R,MO
+S001172,Yea,Smith (NE),R,NE
+S000522,Yea,Smith (NJ),R,NJ
+S000510,Yea,Smith (WA),D,WA
+S001199,Yea,Smucker,R,PA
+S001225,Yea,Sorensen,D,IL
+S001200,Yea,Soto,D,FL
+S001209,Yea,Spanberger,D,VA
+S000929,Yea,Spartz,R,IN
+S001218,Yea,Stansbury,D,NM
+S001211,Yea,Stanton,D,AZ
+S001212,Yea,Stauber,R,MN
+S001135,Yea,Steel,R,CA
+S001196,Yea,Stefanik,R,NY
+S001213,Yea,Steil,R,WI
+S001214,Yea,Steube,R,FL
+S001215,Yea,Stevens,D,MI
+S001159,Yea,Strickland,D,WA
+S001220,Yea,Strong,R,AL
+S001193,Yea,Swalwell,D,CA
+S001223,Yea,Sykes,D,OH
+T000472,Yea,Takano,D,CA
+T000478,Yea,Tenney,R,NY
+T000488,Yea,Thanedar,D,MI
+T000460,Yea,Thompson (CA),D,CA
+T000193,Yea,Thompson (MS),D,MS
+T000467,Yea,Thompson (PA),R,PA
+T000165,Yea,Tiffany,R,WI
+T000480,Yea,Timmons,R,SC
+T000468,Yea,Titus,D,NV
+T000481,Yea,Tlaib,D,MI
+T000487,Yea,Tokuda,D,HI
+T000469,Yea,Tonko,D,NY
+T000474,Yea,Torres (CA),D,CA
+T000486,Yea,Torres (NY),D,NY
+T000482,Yea,Trahan,D,MA
+T000483,Yea,Trone,D,MD
+T000463,Yea,Turner,R,OH
+U000040,Yea,Underwood,D,IL
+V000129,Yea,Valadao,R,CA
+V000133,Yea,Van Drew,R,NJ
+V000134,Yea,Van Duyne,R,TX
+V000135,Yea,Van Orden,R,WI
+V000130,Yea,Vargas,D,CA
+V000136,Yea,Vasquez,D,NM
+V000131,Yea,Veasey,D,TX
+V000081,Yea,Velazquez,D,NY
+W000812,Yea,Wagner,R,MO
+W000798,Yea,Walberg,R,MI
+W000823,Yea,Waltz,R,FL
+W000797,Yea,Wasserman Schultz,D,FL
+W000187,Yea,Waters,D,CA
+W000822,Yea,Watson Coleman,D,NJ
+W000814,Yea,Weber (TX),R,TX
+W000806,Yea,Webster (FL),R,FL
+W000815,Yea,Wenstrup,R,OH
+W000821,Yea,Westerman,R,AR
+W000825,Yea,Wexton,D,VA
+W000826,Yea,Wild,D,PA
+W000788,Yea,Williams (GA),D,GA
+W000828,Yea,Williams (NY),R,NY
+W000816,Yea,Williams (TX),R,TX
+W000808,Yea,Wilson (FL),D,FL
+W000795,Yea,Wilson (SC),R,SC
+W000804,Yea,Wittman,R,VA
+W000809,Yea,Womack,R,AR
+Y000067,Yea,Yakym,R,IN
+Z000018,Yea,Zinke,R,MT

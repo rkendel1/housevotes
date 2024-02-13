@@ -1,0 +1,445 @@
+majority,R
+congress,118
+session,2nd
+chamber,U.S. House of Representatives
+rollcall-num,40
+legis-num,H R 485
+vote-question,On Passage
+vote-type,RECORDED VOTE
+vote-result,Passed
+action-date,7-Feb-2024
+action-time,11:13 AM
+vote-desc,Protecting Health Care for All Patients Act
+vote-totals,"
+"
+Name ID,Vote,Sort Field,Party,State
+A000370,No,Adams,D,NC
+A000055,Aye,Aderholt,R,AL
+A000371,No,Aguilar,D,CA
+A000379,Aye,Alford,R,MO
+A000372,Aye,Allen,R,GA
+A000376,No,Allred,D,TX
+A000380,No,Amo,D,RI
+A000369,Aye,Amodei,R,NV
+A000377,Aye,Armstrong,R,ND
+A000375,Aye,Arrington,R,TX
+A000148,No,Auchincloss,D,MA
+B001291,Aye,Babin,R,TX
+B001298,Aye,Bacon,R,NE
+B001307,Aye,Baird,R,IN
+B001306,Aye,Balderson,R,OH
+B001318,No,Balint,D,VT
+B001299,Aye,Banks,R,IN
+B001282,Aye,Barr,R,KY
+B001300,No,Barragan,D,CA
+B001314,Aye,Bean (FL),R,FL
+B001281,No,Beatty,D,OH
+B000668,Aye,Bentz,R,OR
+B001287,No,Bera,D,CA
+B001301,Aye,Bergman,R,MI
+B001292,No,Beyer,D,VA
+B000740,Aye,Bice,R,OK
+B001302,Aye,Biggs,R,AZ
+B001257,Aye,Bilirakis,R,FL
+B000490,No,Bishop (GA),D,GA
+B001311,Aye,Bishop (NC),R,NC
+B000574,No,Blumenauer,D,OR
+B001303,No,Blunt Rochester,D,DE
+B000825,Aye,Boebert,R,CO
+B001278,No,Bonamici,D,OR
+B001295,Aye,Bost,R,IL
+B001223,No,Bowman,D,NY
+B001296,No,Boyle (PA),D,PA
+B001317,Aye,Brecheen,R,OK
+B001313,No,Brown,D,OH
+B001285,No,Brownley,D,CA
+B001260,Aye,Buchanan,R,FL
+B001297,Aye,Buck,R,CO
+B001275,Aye,Bucshon,R,IN
+B001315,No,Budzinski,D,IL
+B001309,Aye,Burchett,R,TN
+B001248,Aye,Burgess,R,TX
+B001316,Aye,Burlison,R,MO
+B001224,No,Bush,D,MO
+C000059,Aye,Calvert,R,CA
+C001039,Aye,Cammack,R,FL
+C001134,No,Caraveo,D,CO
+C001112,No,Carbajal,D,CA
+C001097,No,Cardenas,D,CA
+C001126,Aye,Carey,R,OH
+C001054,Aye,Carl,R,AL
+C001072,No,Carson,D,IN
+C001103,Aye,Carter (GA),R,GA
+C001125,No,Carter (LA),D,LA
+C001051,Not Voting,Carter (TX),R,TX
+C001090,No,Cartwright,D,PA
+C001131,No,Casar,D,TX
+C001055,No,Case,D,HI
+C001117,No,Casten,D,IL
+C001066,No,Castor (FL),D,FL
+C001091,No,Castro (TX),D,TX
+C001135,Aye,Chavez-DeRemer,R,OR
+C001127,No,Cherfilus-McCormick,D,FL
+C001080,No,Chu,D,CA
+C001133,Aye,Ciscomani,R,AZ
+C001101,No,Clark (MA),D,MA
+C001067,No,Clarke (NY),D,NY
+C001061,No,Cleaver,D,MO
+C001118,Aye,Cline,R,VA
+C001115,Aye,Cloud,R,TX
+C000537,No,Clyburn,D,SC
+C001116,Aye,Clyde,R,GA
+C001068,No,Cohen,D,TN
+C001053,Aye,Cole,R,OK
+C001129,Aye,Collins,R,GA
+C001108,Aye,Comer,R,KY
+C001078,No,Connolly,D,VA
+C001110,No,Correa,D,CA
+C001059,No,Costa,D,CA
+C001069,No,Courtney,D,CT
+C001119,No,Craig,D,MN
+C001132,Aye,Crane,R,AZ
+C001087,Aye,Crawford,R,AR
+C001120,Aye,Crenshaw,R,TX
+C001130,No,Crockett,D,TX
+C001121,No,Crow,D,CO
+C001063,No,Cuellar,D,TX
+C001114,Aye,Curtis,R,UT
+D000632,Aye,D'Esposito,R,NY
+D000629,No,Davids (KS),D,KS
+D000626,Aye,Davidson,R,OH
+D000096,No,Davis (IL),D,IL
+D000230,No,Davis (NC),D,NC
+D000594,Aye,De La Cruz,R,TX
+D000631,No,Dean (PA),D,PA
+D000197,No,DeGette,D,CO
+D000216,No,DeLauro,D,CT
+D000617,No,DelBene,D,WA
+D000530,No,Deluzio,D,PA
+D000623,No,DeSaulnier,D,CA
+D000616,Aye,DesJarlais,R,TN
+D000600,Aye,Diaz-Balart,R,FL
+D000624,No,Dingell,D,MI
+D000399,No,Doggett,D,TX
+D000032,Aye,Donalds,R,FL
+D000633,Aye,Duarte,R,CA
+D000615,Aye,Duncan,R,SC
+D000628,Aye,Dunn (FL),R,FL
+E000246,Aye,Edwards,R,NC
+E000071,Aye,Ellzey,R,TX
+E000294,Aye,Emmer,R,MN
+E000299,No,Escobar,D,TX
+E000215,No,Eshoo,D,CA
+E000297,No,Espaillat,D,NY
+E000298,Aye,Estes,R,KS
+E000296,No,Evans,D,PA
+E000235,Aye,Ezell,R,MS
+F000246,Aye,Fallon,R,TX
+F000446,Aye,Feenstra,R,IA
+F000465,Aye,Ferguson,R,GA
+F000475,Aye,Finstad,R,MN
+F000470,Aye,Fischbach,R,MN
+F000471,Aye,Fitzgerald,R,WI
+F000466,Aye,Fitzpatrick,R,PA
+F000459,Aye,Fleischmann,R,TN
+F000468,No,Fletcher,D,TX
+F000474,Aye,Flood,R,NE
+F000454,No,Foster,D,IL
+F000477,No,Foushee,D,NC
+F000450,Aye,Foxx,R,NC
+F000462,No,"Frankel, Lois",D,FL
+F000472,Aye,"Franklin, Scott",R,FL
+F000476,No,Frost,D,FL
+F000478,Aye,Fry,R,SC
+F000469,Aye,Fulcher,R,ID
+G000578,Aye,Gaetz,R,FL
+G000579,Aye,Gallagher,R,WI
+G000574,No,Gallego,D,AZ
+G000559,No,Garamendi,D,CA
+G000597,Aye,Garbarino,R,NY
+G000586,No,Garcia (IL),D,IL
+G000587,No,Garcia (TX),D,TX
+G000061,Aye,"Garcia, Mike",R,CA
+G000598,No,"Garcia, Robert",D,CA
+G000593,Aye,Gimenez,R,FL
+G000592,No,Golden (ME),D,ME
+G000599,No,Goldman (NY),D,NY
+G000585,No,Gomez,D,CA
+G000594,Aye,"Gonzales, Tony",R,TX
+G000581,No,"Gonzalez, Vicente",D,TX
+G000595,Aye,Good (VA),R,VA
+G000589,Aye,Gooden (TX),R,TX
+G000565,Aye,Gosar,R,AZ
+G000583,No,Gottheimer,D,NJ
+G000377,Aye,Granger,R,TX
+G000577,Aye,Graves (LA),R,LA
+G000546,Aye,Graves (MO),R,MO
+G000590,Aye,Green (TN),R,TN
+G000553,Not Voting,"Green, Al (TX)",D,TX
+G000596,Aye,Greene (GA),R,GA
+G000568,Aye,Griffith,R,VA
+G000551,No,Grijalva,D,AZ
+G000576,Aye,Grothman,R,WI
+G000591,Aye,Guest,R,MS
+G000558,Aye,Guthrie,R,KY
+H001096,Aye,Hageman,R,WY
+H001090,No,Harder (CA),D,CA
+H001052,Not Voting,Harris,R,MD
+H001086,Aye,Harshbarger,R,TN
+H001081,No,Hayes,D,CT
+H001082,Aye,Hern,R,OK
+H001077,Aye,Higgins (LA),R,LA
+H001072,Aye,Hill,R,AR
+H001047,No,Himes,D,CT
+H001091,Aye,Hinson,R,IA
+H001066,No,Horsford,D,NV
+H001093,Aye,Houchin,R,IN
+H001085,No,Houlahan,D,PA
+H000874,No,Hoyer,D,MD
+H001094,No,Hoyle (OR),D,OR
+H001067,Aye,Hudson,R,NC
+H001068,No,Huffman,D,CA
+H001058,Aye,Huizenga,R,MI
+H001095,Aye,Hunt,R,TX
+I000056,Aye,Issa,R,CA
+I000058,No,Ivey,D,MD
+J000309,No,Jackson (IL),D,IL
+J000308,No,Jackson (NC),D,NC
+J000304,Aye,Jackson (TX),R,TX
+J000032,No,Jackson Lee,D,TX
+J000305,No,Jacobs,D,CA
+J000307,Aye,James,R,MI
+J000298,No,Jayapal,D,WA
+J000294,No,Jeffries,D,NY
+J000288,No,Johnson (GA),D,GA
+J000301,Aye,Johnson (SD),R,SD
+J000289,Aye,Jordan,R,OH
+J000295,Aye,Joyce (OH),R,OH
+J000302,Aye,Joyce (PA),R,PA
+K000400,No,Kamlager-Dove,D,CA
+K000009,No,Kaptur,D,OH
+K000398,Aye,Kean (NJ),R,NJ
+K000375,No,Keating,D,MA
+K000385,No,Kelly (IL),D,IL
+K000388,Aye,Kelly (MS),R,MS
+K000376,Aye,Kelly (PA),R,PA
+K000389,No,Khanna,D,CA
+K000399,Aye,Kiggans (VA),R,VA
+K000380,No,Kildee,D,MI
+K000401,Aye,Kiley,R,CA
+K000381,No,Kilmer,D,WA
+K000397,Not Voting,Kim (CA),R,CA
+K000394,Not Voting,Kim (NJ),D,NJ
+K000391,No,Krishnamoorthi,D,IL
+K000382,No,Kuster,D,NH
+K000392,Aye,Kustoff,R,TN
+L000585,Aye,LaHood,R,IL
+L000598,Aye,LaLota,R,NY
+L000578,Aye,LaMalfa,R,CA
+L000564,Aye,Lamborn,R,CO
+L000601,No,Landsman,D,OH
+L000600,Not Voting,Langworthy,R,NY
+L000560,No,Larsen (WA),D,WA
+L000557,Not Voting,Larson (CT),D,CT
+L000566,Aye,Latta,R,OH
+L000266,Aye,LaTurner,R,KS
+L000599,Aye,Lawler,R,NY
+L000551,No,Lee (CA),D,CA
+L000597,Aye,Lee (FL),R,FL
+L000590,No,Lee (NV),D,NV
+L000602,No,Lee (PA),D,PA
+L000273,No,Leger Fernandez,D,NM
+L000589,Aye,Lesko,R,AZ
+L000595,Aye,Letlow,R,LA
+L000593,No,Levin,D,CA
+L000582,No,Lieu,D,CA
+L000397,No,Lofgren,D,CA
+L000583,Aye,Loudermilk,R,GA
+L000491,Aye,Lucas,R,OK
+L000569,Aye,Luetkemeyer,R,MO
+L000596,Not Voting,Luna,R,FL
+L000603,Aye,Luttrell,R,TX
+L000562,No,Lynch,D,MA
+M000194,Aye,Mace,R,SC
+M001223,No,Magaziner,D,RI
+M000317,Aye,Malliotakis,R,NY
+M001228,Aye,Maloy,R,UT
+M000871,Aye,Mann,R,KS
+M001135,No,Manning,D,NC
+M001184,Aye,Massie,R,KY
+M001199,Aye,Mast,R,FL
+M001163,No,Matsui,D,CA
+M001208,No,McBath,D,GA
+M001157,Aye,McCaul,R,TX
+M001136,Aye,McClain,R,MI
+M001227,No,McClellan,D,VA
+M001177,Aye,McClintock,R,CA
+M001143,No,McCollum,D,MN
+M001218,Aye,McCormick,R,GA
+M001220,No,McGarvey,D,KY
+M000312,No,McGovern,D,MA
+M001156,Aye,McHenry,R,NC
+M001137,No,Meeks,D,NY
+M001226,No,Menendez,D,NJ
+M001188,No,Meng,D,NY
+M001204,Aye,Meuser,R,PA
+M000687,No,Mfume,D,MD
+M001211,Aye,Miller (IL),R,IL
+M001222,Aye,Miller (OH),R,OH
+M001205,Aye,Miller (WV),R,WV
+M001215,Aye,Miller-Meeks,R,IA
+M001216,Aye,Mills,R,FL
+M001221,Aye,Molinaro,R,NY
+M001194,Aye,Moolenaar,R,MI
+M001195,Not Voting,Mooney,R,WV
+M001212,Aye,Moore (AL),R,AL
+M001213,Aye,Moore (UT),R,UT
+M001160,No,Moore (WI),D,WI
+M001224,Aye,Moran,R,TX
+M001206,No,Morelle,D,NY
+M001217,No,Moskowitz,D,FL
+M001196,No,Moulton,D,MA
+M001214,No,Mrvan,D,IN
+M001225,No,Mullin,D,CA
+M001210,Aye,Murphy,R,NC
+N000002,No,Nadler,D,NY
+N000179,No,Napolitano,D,CA
+N000015,No,Neal,D,MA
+N000191,No,Neguse,D,CO
+N000026,Aye,Nehls,R,TX
+N000189,Aye,Newhouse,R,WA
+N000194,No,Nickel,D,NC
+N000188,No,Norcross,D,NJ
+N000190,Aye,Norman,R,SC
+N000193,Aye,Nunn (IA),R,IA
+O000019,Aye,Obernolte,R,CA
+O000172,No,Ocasio-Cortez,D,NY
+O000175,Aye,Ogles,R,TN
+O000173,No,Omar,D,MN
+O000086,Aye,Owens,R,UT
+P000034,No,Pallone,D,NJ
+P000609,Aye,Palmer,R,AL
+P000613,No,Panetta,D,CA
+P000614,No,Pappas,D,NH
+P000096,No,Pascrell,D,NJ
+P000604,No,Payne,D,NJ
+P000197,No,Pelosi,D,CA
+P000619,No,Peltola,D,AK
+P000615,Aye,Pence,R,IN
+G000600,No,Perez,D,WA
+P000605,Aye,Perry,R,PA
+P000608,No,Peters,D,CA
+P000620,No,Pettersen,D,CO
+P000048,Aye,Pfluger,R,TX
+P000616,Not Voting,Phillips,D,MN
+P000597,No,Pingree,D,ME
+P000607,No,Pocan,D,WI
+P000618,No,Porter,D,CA
+P000599,Aye,Posey,R,FL
+P000617,No,Pressley,D,MA
+Q000023,No,Quigley,D,IL
+R000617,No,Ramirez,D,IL
+R000606,No,Raskin,D,MD
+R000610,Aye,Reschenthaler,R,PA
+M001159,Aye,Rodgers (WA),R,WA
+R000575,Aye,Rogers (AL),R,AL
+R000395,Aye,Rogers (KY),R,KY
+R000612,Aye,Rose,R,TN
+R000103,Aye,Rosendale,R,MT
+R000305,No,Ross,D,NC
+R000603,Aye,Rouzer,R,NC
+R000614,Aye,Roy,R,TX
+R000599,No,Ruiz,D,CA
+R000576,No,Ruppersberger,D,MD
+R000609,Aye,Rutherford,R,FL
+R000579,No,Ryan,D,NY
+S000168,Aye,Salazar,R,FL
+S001226,No,Salinas,D,OR
+S001156,No,Sanchez,D,CA
+S001168,No,Sarbanes,D,MD
+S001176,Not Voting,Scalise,R,LA
+S001205,No,Scanlon,D,PA
+S001145,No,Schakowsky,D,IL
+S001150,No,Schiff,D,CA
+S001190,No,Schneider,D,IL
+S001221,No,Scholten,D,MI
+S001216,No,Schrier,D,WA
+S001183,Aye,Schweikert,R,AZ
+S000185,No,Scott (VA),D,VA
+S001189,Aye,"Scott, Austin",R,GA
+S001157,No,"Scott, David",D,GA
+S001224,Aye,Self,R,TX
+S000250,Aye,Sessions,R,TX
+S001185,No,Sewell,D,AL
+S000344,No,Sherman,D,CA
+S001207,No,Sherrill,D,NJ
+S001148,Aye,Simpson,R,ID
+S001208,No,Slotkin,D,MI
+S001195,Aye,Smith (MO),R,MO
+S001172,Aye,Smith (NE),R,NE
+S000522,Aye,Smith (NJ),R,NJ
+S000510,No,Smith (WA),D,WA
+S001199,Aye,Smucker,R,PA
+S001225,No,Sorensen,D,IL
+S001200,No,Soto,D,FL
+S001209,No,Spanberger,D,VA
+S000929,Aye,Spartz,R,IN
+S001218,No,Stansbury,D,NM
+S001211,No,Stanton,D,AZ
+S001212,Aye,Stauber,R,MN
+S001135,Aye,Steel,R,CA
+S001196,Aye,Stefanik,R,NY
+S001213,Aye,Steil,R,WI
+S001214,Aye,Steube,R,FL
+S001215,No,Stevens,D,MI
+S001159,No,Strickland,D,WA
+S001220,Aye,Strong,R,AL
+S001193,No,Swalwell,D,CA
+S001223,No,Sykes,D,OH
+T000472,No,Takano,D,CA
+T000478,Aye,Tenney,R,NY
+T000488,No,Thanedar,D,MI
+T000460,No,Thompson (CA),D,CA
+T000193,No,Thompson (MS),D,MS
+T000467,Aye,Thompson (PA),R,PA
+T000165,Aye,Tiffany,R,WI
+T000480,Aye,Timmons,R,SC
+T000468,No,Titus,D,NV
+T000481,No,Tlaib,D,MI
+T000487,No,Tokuda,D,HI
+T000469,No,Tonko,D,NY
+T000474,No,Torres (CA),D,CA
+T000486,No,Torres (NY),D,NY
+T000482,No,Trahan,D,MA
+T000483,No,Trone,D,MD
+T000463,Aye,Turner,R,OH
+U000040,No,Underwood,D,IL
+V000129,Aye,Valadao,R,CA
+V000133,Aye,Van Drew,R,NJ
+V000134,Aye,Van Duyne,R,TX
+V000135,Aye,Van Orden,R,WI
+V000130,No,Vargas,D,CA
+V000136,No,Vasquez,D,NM
+V000131,No,Veasey,D,TX
+V000081,No,Velazquez,D,NY
+W000812,Aye,Wagner,R,MO
+W000798,Aye,Walberg,R,MI
+W000823,Aye,Waltz,R,FL
+W000797,No,Wasserman Schultz,D,FL
+W000187,No,Waters,D,CA
+W000822,No,Watson Coleman,D,NJ
+W000814,Aye,Weber (TX),R,TX
+W000806,Aye,Webster (FL),R,FL
+W000815,Aye,Wenstrup,R,OH
+W000821,Aye,Westerman,R,AR
+W000825,No,Wexton,D,VA
+W000826,No,Wild,D,PA
+W000788,No,Williams (GA),D,GA
+W000828,Aye,Williams (NY),R,NY
+W000816,Aye,Williams (TX),R,TX
+W000808,No,Wilson (FL),D,FL
+W000795,Aye,Wilson (SC),R,SC
+W000804,Aye,Wittman,R,VA
+W000809,Aye,Womack,R,AR
+Y000067,Aye,Yakym,R,IN
+Z000018,Aye,Zinke,R,MT
