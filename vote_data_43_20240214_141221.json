@@ -4,15 +4,22 @@
         "congress": "118",
         "session": "2",
         "chamber": "house",
-        "rollcall-num": "37",
+        "rollcall-num": "43",
         "legis-num": "H RES 863",
         "vote-question": "ON AGREEING TO THE RESOLUTION, AS AMENDED",
         "vote-type": "YEA-AND-NAY",
-        "vote-result": "Failed",
-        "action-date": "6-Feb-2024",
-        "action-time": "6:40 PM",
+        "vote-result": "Passed",
+        "action-date": "13-Feb-2024",
+        "action-time": "7:16 PM",
         "vote-desc": "Impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors",
         "vote-totals": "\n"
+    },
+    "vote_summary": {
+        "total-stub": "Totals",
+        "yea-total": "214",
+        "nay-total": "213",
+        "present-total": "0",
+        "not-voting-total": "4"
     },
     "recorded_votes": [
         {
@@ -486,7 +493,7 @@
         },
         {
             "name_id": "C001080",
-            "vote": "Nay",
+            "vote": "Not Voting",
             "sort_field": "Chu",
             "party": "D",
             "state": "CA"
@@ -955,7 +962,7 @@
         },
         {
             "name_id": "F000462",
-            "vote": "Nay",
+            "vote": "Not Voting",
             "sort_field": "Frankel, Lois",
             "party": "D",
             "state": "FL"
@@ -1802,7 +1809,7 @@
         },
         {
             "name_id": "M001199",
-            "vote": "Yea",
+            "vote": "Not Voting",
             "sort_field": "Mast",
             "party": "R",
             "state": "FL"
@@ -1984,7 +1991,7 @@
         },
         {
             "name_id": "M001213",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Moore (UT)",
             "party": "R",
             "state": "UT"
@@ -2404,7 +2411,7 @@
         },
         {
             "name_id": "S000168",
-            "vote": "Yea",
+            "vote": "Not Voting",
             "sort_field": "Salazar",
             "party": "R",
             "state": "FL"
@@ -2432,7 +2439,7 @@
         },
         {
             "name_id": "S001176",
-            "vote": "Not Voting",
+            "vote": "Yea",
             "sort_field": "Scalise",
             "party": "R",
             "state": "LA"

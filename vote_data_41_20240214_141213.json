@@ -4,15 +4,22 @@
         "congress": "118",
         "session": "2",
         "chamber": "house",
-        "rollcall-num": "36",
-        "legis-num": "H R 1727",
+        "rollcall-num": "41",
+        "legis-num": "H R 5856",
         "vote-question": "ON MOTION TO SUSPEND THE RULES AND PASS, AS AMENDED",
         "vote-type": "2/3 YEA-AND-NAY",
         "vote-result": "Passed",
-        "action-date": "6-Feb-2024",
-        "action-time": "6:27 PM",
-        "vote-desc": "Chesapeake and Ohio Canal National Historical Park Commission Extension Act",
+        "action-date": "13-Feb-2024",
+        "action-time": "7:02 PM",
+        "vote-desc": "Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act",
         "vote-totals": "\n"
+    },
+    "vote_summary": {
+        "total-stub": "Totals",
+        "yea-total": "414",
+        "nay-total": "11",
+        "present-total": "0",
+        "not-voting-total": "6"
     },
     "recorded_votes": [
         {
@@ -304,7 +311,7 @@
         },
         {
             "name_id": "B001297",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Buck",
             "party": "R",
             "state": "CO"
@@ -486,7 +493,7 @@
         },
         {
             "name_id": "C001080",
-            "vote": "Yea",
+            "vote": "Not Voting",
             "sort_field": "Chu",
             "party": "D",
             "state": "CA"
@@ -542,7 +549,7 @@
         },
         {
             "name_id": "C001116",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Clyde",
             "party": "R",
             "state": "GA"
@@ -675,7 +682,7 @@
         },
         {
             "name_id": "D000626",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Davidson",
             "party": "R",
             "state": "OH"
@@ -955,7 +962,7 @@
         },
         {
             "name_id": "F000462",
-            "vote": "Yea",
+            "vote": "Not Voting",
             "sort_field": "Frankel, Lois",
             "party": "D",
             "state": "FL"
@@ -1011,7 +1018,7 @@
         },
         {
             "name_id": "G000559",
-            "vote": "Yea",
+            "vote": "Not Voting",
             "sort_field": "Garamendi",
             "party": "D",
             "state": "CA"
@@ -1151,14 +1158,14 @@
         },
         {
             "name_id": "G000553",
-            "vote": "Not Voting",
+            "vote": "Yea",
             "sort_field": "Green, Al (TX)",
             "party": "D",
             "state": "TX"
         },
         {
             "name_id": "G000596",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Greene (GA)",
             "party": "R",
             "state": "GA"
@@ -1200,7 +1207,7 @@
         },
         {
             "name_id": "H001096",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Hageman",
             "party": "R",
             "state": "WY"
@@ -1795,14 +1802,14 @@
         },
         {
             "name_id": "M001184",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Massie",
             "party": "R",
             "state": "KY"
         },
         {
             "name_id": "M001199",
-            "vote": "Yea",
+            "vote": "Not Voting",
             "sort_field": "Mast",
             "party": "R",
             "state": "FL"
@@ -1844,7 +1851,7 @@
         },
         {
             "name_id": "M001177",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "McClintock",
             "party": "R",
             "state": "CA"
@@ -2103,7 +2110,7 @@
         },
         {
             "name_id": "N000190",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Norman",
             "party": "R",
             "state": "SC"
@@ -2222,7 +2229,7 @@
         },
         {
             "name_id": "P000605",
-            "vote": "Yea",
+            "vote": "Not Voting",
             "sort_field": "Perry",
             "party": "R",
             "state": "PA"
@@ -2348,7 +2355,7 @@
         },
         {
             "name_id": "R000103",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Rosendale",
             "party": "R",
             "state": "MT"
@@ -2369,7 +2376,7 @@
         },
         {
             "name_id": "R000614",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Roy",
             "party": "R",
             "state": "TX"
@@ -2404,7 +2411,7 @@
         },
         {
             "name_id": "S000168",
-            "vote": "Yea",
+            "vote": "Not Voting",
             "sort_field": "Salazar",
             "party": "R",
             "state": "FL"
@@ -2432,7 +2439,7 @@
         },
         {
             "name_id": "S001176",
-            "vote": "Not Voting",
+            "vote": "Yea",
             "sort_field": "Scalise",
             "party": "R",
             "state": "LA"
@@ -2509,7 +2516,7 @@
         },
         {
             "name_id": "S001224",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Self",
             "party": "R",
             "state": "TX"

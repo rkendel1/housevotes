@@ -4,20 +4,27 @@
         "congress": "118",
         "session": "2",
         "chamber": "house",
-        "rollcall-num": "41",
-        "legis-num": "H R 5856",
-        "vote-question": "ON MOTION TO SUSPEND THE RULES AND PASS, AS AMENDED",
-        "vote-type": "2/3 YEA-AND-NAY",
-        "vote-result": "Passed",
-        "action-date": "13-Feb-2024",
-        "action-time": "7:02 PM",
-        "vote-desc": "Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act",
+        "rollcall-num": "37",
+        "legis-num": "H RES 863",
+        "vote-question": "ON AGREEING TO THE RESOLUTION, AS AMENDED",
+        "vote-type": "YEA-AND-NAY",
+        "vote-result": "Failed",
+        "action-date": "6-Feb-2024",
+        "action-time": "6:40 PM",
+        "vote-desc": "Impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors",
         "vote-totals": "\n"
+    },
+    "vote_summary": {
+        "total-stub": "Totals",
+        "yea-total": "214",
+        "nay-total": "216",
+        "present-total": "0",
+        "not-voting-total": "1"
     },
     "recorded_votes": [
         {
             "name_id": "A000370",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Adams",
             "party": "D",
             "state": "NC"
@@ -31,7 +38,7 @@
         },
         {
             "name_id": "A000371",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Aguilar",
             "party": "D",
             "state": "CA"
@@ -52,14 +59,14 @@
         },
         {
             "name_id": "A000376",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Allred",
             "party": "D",
             "state": "TX"
         },
         {
             "name_id": "A000380",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Amo",
             "party": "D",
             "state": "RI"
@@ -87,7 +94,7 @@
         },
         {
             "name_id": "A000148",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Auchincloss",
             "party": "D",
             "state": "MA"
@@ -122,7 +129,7 @@
         },
         {
             "name_id": "B001318",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Balint",
             "party": "D",
             "state": "VT"
@@ -143,7 +150,7 @@
         },
         {
             "name_id": "B001300",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Barragan",
             "party": "D",
             "state": "CA"
@@ -157,7 +164,7 @@
         },
         {
             "name_id": "B001281",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Beatty",
             "party": "D",
             "state": "OH"
@@ -171,7 +178,7 @@
         },
         {
             "name_id": "B001287",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Bera",
             "party": "D",
             "state": "CA"
@@ -185,7 +192,7 @@
         },
         {
             "name_id": "B001292",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Beyer",
             "party": "D",
             "state": "VA"
@@ -213,7 +220,7 @@
         },
         {
             "name_id": "B000490",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Bishop (GA)",
             "party": "D",
             "state": "GA"
@@ -227,14 +234,14 @@
         },
         {
             "name_id": "B000574",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Blumenauer",
             "party": "D",
             "state": "OR"
         },
         {
             "name_id": "B001303",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Blunt Rochester",
             "party": "D",
             "state": "DE"
@@ -248,7 +255,7 @@
         },
         {
             "name_id": "B001278",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Bonamici",
             "party": "D",
             "state": "OR"
@@ -262,35 +269,35 @@
         },
         {
             "name_id": "B001223",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Bowman",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "B001296",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Boyle (PA)",
             "party": "D",
             "state": "PA"
         },
         {
             "name_id": "B001317",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Brecheen",
             "party": "R",
             "state": "OK"
         },
         {
             "name_id": "B001313",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Brown",
             "party": "D",
             "state": "OH"
         },
         {
             "name_id": "B001285",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Brownley",
             "party": "D",
             "state": "CA"
@@ -318,7 +325,7 @@
         },
         {
             "name_id": "B001315",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Budzinski",
             "party": "D",
             "state": "IL"
@@ -346,7 +353,7 @@
         },
         {
             "name_id": "B001224",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Bush",
             "party": "D",
             "state": "MO"
@@ -367,21 +374,21 @@
         },
         {
             "name_id": "C001134",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Caraveo",
             "party": "D",
             "state": "CO"
         },
         {
             "name_id": "C001112",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Carbajal",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "C001097",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Cardenas",
             "party": "D",
             "state": "CA"
@@ -402,7 +409,7 @@
         },
         {
             "name_id": "C001072",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Carson",
             "party": "D",
             "state": "IN"
@@ -416,7 +423,7 @@
         },
         {
             "name_id": "C001125",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Carter (LA)",
             "party": "D",
             "state": "LA"
@@ -430,42 +437,42 @@
         },
         {
             "name_id": "C001090",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Cartwright",
             "party": "D",
             "state": "PA"
         },
         {
             "name_id": "C001131",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Casar",
             "party": "D",
             "state": "TX"
         },
         {
             "name_id": "C001055",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Case",
             "party": "D",
             "state": "HI"
         },
         {
             "name_id": "C001117",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Casten",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "C001066",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Castor (FL)",
             "party": "D",
             "state": "FL"
         },
         {
             "name_id": "C001091",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Castro (TX)",
             "party": "D",
             "state": "TX"
@@ -479,14 +486,14 @@
         },
         {
             "name_id": "C001127",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Cherfilus-McCormick",
             "party": "D",
             "state": "FL"
         },
         {
             "name_id": "C001080",
-            "vote": "Not Voting",
+            "vote": "Nay",
             "sort_field": "Chu",
             "party": "D",
             "state": "CA"
@@ -500,21 +507,21 @@
         },
         {
             "name_id": "C001101",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Clark (MA)",
             "party": "D",
             "state": "MA"
         },
         {
             "name_id": "C001067",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Clarke (NY)",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "C001061",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Cleaver",
             "party": "D",
             "state": "MO"
@@ -535,21 +542,21 @@
         },
         {
             "name_id": "C000537",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Clyburn",
             "party": "D",
             "state": "SC"
         },
         {
             "name_id": "C001116",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Clyde",
             "party": "R",
             "state": "GA"
         },
         {
             "name_id": "C001068",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Cohen",
             "party": "D",
             "state": "TN"
@@ -577,35 +584,35 @@
         },
         {
             "name_id": "C001078",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Connolly",
             "party": "D",
             "state": "VA"
         },
         {
             "name_id": "C001110",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Correa",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "C001059",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Costa",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "C001069",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Courtney",
             "party": "D",
             "state": "CT"
         },
         {
             "name_id": "C001119",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Craig",
             "party": "D",
             "state": "MN"
@@ -633,21 +640,21 @@
         },
         {
             "name_id": "C001130",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Crockett",
             "party": "D",
             "state": "TX"
         },
         {
             "name_id": "C001121",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Crow",
             "party": "D",
             "state": "CO"
         },
         {
             "name_id": "C001063",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Cuellar",
             "party": "D",
             "state": "TX"
@@ -668,7 +675,7 @@
         },
         {
             "name_id": "D000629",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Davids (KS)",
             "party": "D",
             "state": "KS"
@@ -682,14 +689,14 @@
         },
         {
             "name_id": "D000096",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Davis (IL)",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "D000230",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Davis (NC)",
             "party": "D",
             "state": "NC"
@@ -703,42 +710,42 @@
         },
         {
             "name_id": "D000631",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Dean (PA)",
             "party": "D",
             "state": "PA"
         },
         {
             "name_id": "D000197",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "DeGette",
             "party": "D",
             "state": "CO"
         },
         {
             "name_id": "D000216",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "DeLauro",
             "party": "D",
             "state": "CT"
         },
         {
             "name_id": "D000617",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "DelBene",
             "party": "D",
             "state": "WA"
         },
         {
             "name_id": "D000530",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Deluzio",
             "party": "D",
             "state": "PA"
         },
         {
             "name_id": "D000623",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "DeSaulnier",
             "party": "D",
             "state": "CA"
@@ -759,14 +766,14 @@
         },
         {
             "name_id": "D000624",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Dingell",
             "party": "D",
             "state": "MI"
         },
         {
             "name_id": "D000399",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Doggett",
             "party": "D",
             "state": "TX"
@@ -822,21 +829,21 @@
         },
         {
             "name_id": "E000299",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Escobar",
             "party": "D",
             "state": "TX"
         },
         {
             "name_id": "E000215",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Eshoo",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "E000297",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Espaillat",
             "party": "D",
             "state": "NY"
@@ -850,7 +857,7 @@
         },
         {
             "name_id": "E000296",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Evans",
             "party": "D",
             "state": "PA"
@@ -920,7 +927,7 @@
         },
         {
             "name_id": "F000468",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Fletcher",
             "party": "D",
             "state": "TX"
@@ -934,14 +941,14 @@
         },
         {
             "name_id": "F000454",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Foster",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "F000477",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Foushee",
             "party": "D",
             "state": "NC"
@@ -955,7 +962,7 @@
         },
         {
             "name_id": "F000462",
-            "vote": "Not Voting",
+            "vote": "Nay",
             "sort_field": "Frankel, Lois",
             "party": "D",
             "state": "FL"
@@ -969,7 +976,7 @@
         },
         {
             "name_id": "F000476",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Frost",
             "party": "D",
             "state": "FL"
@@ -997,21 +1004,21 @@
         },
         {
             "name_id": "G000579",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Gallagher",
             "party": "R",
             "state": "WI"
         },
         {
             "name_id": "G000574",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Gallego",
             "party": "D",
             "state": "AZ"
         },
         {
             "name_id": "G000559",
-            "vote": "Not Voting",
+            "vote": "Nay",
             "sort_field": "Garamendi",
             "party": "D",
             "state": "CA"
@@ -1025,14 +1032,14 @@
         },
         {
             "name_id": "G000586",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Garcia (IL)",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "G000587",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Garcia (TX)",
             "party": "D",
             "state": "TX"
@@ -1046,7 +1053,7 @@
         },
         {
             "name_id": "G000598",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Garcia, Robert",
             "party": "D",
             "state": "CA"
@@ -1060,21 +1067,21 @@
         },
         {
             "name_id": "G000592",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Golden (ME)",
             "party": "D",
             "state": "ME"
         },
         {
             "name_id": "G000599",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Goldman (NY)",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "G000585",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Gomez",
             "party": "D",
             "state": "CA"
@@ -1088,7 +1095,7 @@
         },
         {
             "name_id": "G000581",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Gonzalez, Vicente",
             "party": "D",
             "state": "TX"
@@ -1116,7 +1123,7 @@
         },
         {
             "name_id": "G000583",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Gottheimer",
             "party": "D",
             "state": "NJ"
@@ -1151,14 +1158,14 @@
         },
         {
             "name_id": "G000553",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Green, Al (TX)",
             "party": "D",
             "state": "TX"
         },
         {
             "name_id": "G000596",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Greene (GA)",
             "party": "R",
             "state": "GA"
@@ -1172,7 +1179,7 @@
         },
         {
             "name_id": "G000551",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Grijalva",
             "party": "D",
             "state": "AZ"
@@ -1200,14 +1207,14 @@
         },
         {
             "name_id": "H001096",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Hageman",
             "party": "R",
             "state": "WY"
         },
         {
             "name_id": "H001090",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Harder (CA)",
             "party": "D",
             "state": "CA"
@@ -1228,7 +1235,7 @@
         },
         {
             "name_id": "H001081",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Hayes",
             "party": "D",
             "state": "CT"
@@ -1256,7 +1263,7 @@
         },
         {
             "name_id": "H001047",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Himes",
             "party": "D",
             "state": "CT"
@@ -1270,7 +1277,7 @@
         },
         {
             "name_id": "H001066",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Horsford",
             "party": "D",
             "state": "NV"
@@ -1284,21 +1291,21 @@
         },
         {
             "name_id": "H001085",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Houlahan",
             "party": "D",
             "state": "PA"
         },
         {
             "name_id": "H000874",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Hoyer",
             "party": "D",
             "state": "MD"
         },
         {
             "name_id": "H001094",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Hoyle (OR)",
             "party": "D",
             "state": "OR"
@@ -1312,7 +1319,7 @@
         },
         {
             "name_id": "H001068",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Huffman",
             "party": "D",
             "state": "CA"
@@ -1340,21 +1347,21 @@
         },
         {
             "name_id": "I000058",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Ivey",
             "party": "D",
             "state": "MD"
         },
         {
             "name_id": "J000309",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Jackson (IL)",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "J000308",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Jackson (NC)",
             "party": "D",
             "state": "NC"
@@ -1368,14 +1375,14 @@
         },
         {
             "name_id": "J000032",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Jackson Lee",
             "party": "D",
             "state": "TX"
         },
         {
             "name_id": "J000305",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Jacobs",
             "party": "D",
             "state": "CA"
@@ -1389,21 +1396,21 @@
         },
         {
             "name_id": "J000298",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Jayapal",
             "party": "D",
             "state": "WA"
         },
         {
             "name_id": "J000294",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Jeffries",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "J000288",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Johnson (GA)",
             "party": "D",
             "state": "GA"
@@ -1445,14 +1452,14 @@
         },
         {
             "name_id": "K000400",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Kamlager-Dove",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "K000009",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Kaptur",
             "party": "D",
             "state": "OH"
@@ -1466,14 +1473,14 @@
         },
         {
             "name_id": "K000375",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Keating",
             "party": "D",
             "state": "MA"
         },
         {
             "name_id": "K000385",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Kelly (IL)",
             "party": "D",
             "state": "IL"
@@ -1494,7 +1501,7 @@
         },
         {
             "name_id": "K000389",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Khanna",
             "party": "D",
             "state": "CA"
@@ -1508,7 +1515,7 @@
         },
         {
             "name_id": "K000380",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Kildee",
             "party": "D",
             "state": "MI"
@@ -1522,7 +1529,7 @@
         },
         {
             "name_id": "K000381",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Kilmer",
             "party": "D",
             "state": "WA"
@@ -1536,21 +1543,21 @@
         },
         {
             "name_id": "K000394",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Kim (NJ)",
             "party": "D",
             "state": "NJ"
         },
         {
             "name_id": "K000391",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Krishnamoorthi",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "K000382",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Kuster",
             "party": "D",
             "state": "NH"
@@ -1592,7 +1599,7 @@
         },
         {
             "name_id": "L000601",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Landsman",
             "party": "D",
             "state": "OH"
@@ -1606,14 +1613,14 @@
         },
         {
             "name_id": "L000560",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Larsen (WA)",
             "party": "D",
             "state": "WA"
         },
         {
             "name_id": "L000557",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Larson (CT)",
             "party": "D",
             "state": "CT"
@@ -1641,7 +1648,7 @@
         },
         {
             "name_id": "L000551",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Lee (CA)",
             "party": "D",
             "state": "CA"
@@ -1655,21 +1662,21 @@
         },
         {
             "name_id": "L000590",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Lee (NV)",
             "party": "D",
             "state": "NV"
         },
         {
             "name_id": "L000602",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Lee (PA)",
             "party": "D",
             "state": "PA"
         },
         {
             "name_id": "L000273",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Leger Fernandez",
             "party": "D",
             "state": "NM"
@@ -1690,21 +1697,21 @@
         },
         {
             "name_id": "L000593",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Levin",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "L000582",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Lieu",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "L000397",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Lofgren",
             "party": "D",
             "state": "CA"
@@ -1746,7 +1753,7 @@
         },
         {
             "name_id": "L000562",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Lynch",
             "party": "D",
             "state": "MA"
@@ -1760,7 +1767,7 @@
         },
         {
             "name_id": "M001223",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Magaziner",
             "party": "D",
             "state": "RI"
@@ -1788,35 +1795,35 @@
         },
         {
             "name_id": "M001135",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Manning",
             "party": "D",
             "state": "NC"
         },
         {
             "name_id": "M001184",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Massie",
             "party": "R",
             "state": "KY"
         },
         {
             "name_id": "M001199",
-            "vote": "Not Voting",
+            "vote": "Yea",
             "sort_field": "Mast",
             "party": "R",
             "state": "FL"
         },
         {
             "name_id": "M001163",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Matsui",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "M001208",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "McBath",
             "party": "D",
             "state": "GA"
@@ -1837,7 +1844,7 @@
         },
         {
             "name_id": "M001227",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "McClellan",
             "party": "D",
             "state": "VA"
@@ -1851,7 +1858,7 @@
         },
         {
             "name_id": "M001143",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "McCollum",
             "party": "D",
             "state": "MN"
@@ -1865,14 +1872,14 @@
         },
         {
             "name_id": "M001220",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "McGarvey",
             "party": "D",
             "state": "KY"
         },
         {
             "name_id": "M000312",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "McGovern",
             "party": "D",
             "state": "MA"
@@ -1886,21 +1893,21 @@
         },
         {
             "name_id": "M001137",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Meeks",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "M001226",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Menendez",
             "party": "D",
             "state": "NJ"
         },
         {
             "name_id": "M001188",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Meng",
             "party": "D",
             "state": "NY"
@@ -1914,7 +1921,7 @@
         },
         {
             "name_id": "M000687",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Mfume",
             "party": "D",
             "state": "MD"
@@ -1984,14 +1991,14 @@
         },
         {
             "name_id": "M001213",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Moore (UT)",
             "party": "R",
             "state": "UT"
         },
         {
             "name_id": "M001160",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Moore (WI)",
             "party": "D",
             "state": "WI"
@@ -2005,35 +2012,35 @@
         },
         {
             "name_id": "M001206",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Morelle",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "M001217",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Moskowitz",
             "party": "D",
             "state": "FL"
         },
         {
             "name_id": "M001196",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Moulton",
             "party": "D",
             "state": "MA"
         },
         {
             "name_id": "M001214",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Mrvan",
             "party": "D",
             "state": "IN"
         },
         {
             "name_id": "M001225",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Mullin",
             "party": "D",
             "state": "CA"
@@ -2047,28 +2054,28 @@
         },
         {
             "name_id": "N000002",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Nadler",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "N000179",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Napolitano",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "N000015",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Neal",
             "party": "D",
             "state": "MA"
         },
         {
             "name_id": "N000191",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Neguse",
             "party": "D",
             "state": "CO"
@@ -2089,21 +2096,21 @@
         },
         {
             "name_id": "N000194",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Nickel",
             "party": "D",
             "state": "NC"
         },
         {
             "name_id": "N000188",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Norcross",
             "party": "D",
             "state": "NJ"
         },
         {
             "name_id": "N000190",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Norman",
             "party": "R",
             "state": "SC"
@@ -2124,7 +2131,7 @@
         },
         {
             "name_id": "O000172",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Ocasio-Cortez",
             "party": "D",
             "state": "NY"
@@ -2138,7 +2145,7 @@
         },
         {
             "name_id": "O000173",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Omar",
             "party": "D",
             "state": "MN"
@@ -2152,7 +2159,7 @@
         },
         {
             "name_id": "P000034",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Pallone",
             "party": "D",
             "state": "NJ"
@@ -2166,42 +2173,42 @@
         },
         {
             "name_id": "P000613",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Panetta",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "P000614",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Pappas",
             "party": "D",
             "state": "NH"
         },
         {
             "name_id": "P000096",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Pascrell",
             "party": "D",
             "state": "NJ"
         },
         {
             "name_id": "P000604",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Payne",
             "party": "D",
             "state": "NJ"
         },
         {
             "name_id": "P000197",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Pelosi",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "P000619",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Peltola",
             "party": "D",
             "state": "AK"
@@ -2215,28 +2222,28 @@
         },
         {
             "name_id": "G000600",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Perez",
             "party": "D",
             "state": "WA"
         },
         {
             "name_id": "P000605",
-            "vote": "Not Voting",
+            "vote": "Yea",
             "sort_field": "Perry",
             "party": "R",
             "state": "PA"
         },
         {
             "name_id": "P000608",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Peters",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "P000620",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Pettersen",
             "party": "D",
             "state": "CO"
@@ -2250,28 +2257,28 @@
         },
         {
             "name_id": "P000616",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Phillips",
             "party": "D",
             "state": "MN"
         },
         {
             "name_id": "P000597",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Pingree",
             "party": "D",
             "state": "ME"
         },
         {
             "name_id": "P000607",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Pocan",
             "party": "D",
             "state": "WI"
         },
         {
             "name_id": "P000618",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Porter",
             "party": "D",
             "state": "CA"
@@ -2285,28 +2292,28 @@
         },
         {
             "name_id": "P000617",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Pressley",
             "party": "D",
             "state": "MA"
         },
         {
             "name_id": "Q000023",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Quigley",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "R000617",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Ramirez",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "R000606",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Raskin",
             "party": "D",
             "state": "MD"
@@ -2348,14 +2355,14 @@
         },
         {
             "name_id": "R000103",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Rosendale",
             "party": "R",
             "state": "MT"
         },
         {
             "name_id": "R000305",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Ross",
             "party": "D",
             "state": "NC"
@@ -2369,21 +2376,21 @@
         },
         {
             "name_id": "R000614",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Roy",
             "party": "R",
             "state": "TX"
         },
         {
             "name_id": "R000599",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Ruiz",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "R000576",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Ruppersberger",
             "party": "D",
             "state": "MD"
@@ -2397,84 +2404,84 @@
         },
         {
             "name_id": "R000579",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Ryan",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "S000168",
-            "vote": "Not Voting",
+            "vote": "Yea",
             "sort_field": "Salazar",
             "party": "R",
             "state": "FL"
         },
         {
             "name_id": "S001226",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Salinas",
             "party": "D",
             "state": "OR"
         },
         {
             "name_id": "S001156",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Sanchez",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "S001168",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Sarbanes",
             "party": "D",
             "state": "MD"
         },
         {
             "name_id": "S001176",
-            "vote": "Yea",
+            "vote": "Not Voting",
             "sort_field": "Scalise",
             "party": "R",
             "state": "LA"
         },
         {
             "name_id": "S001205",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Scanlon",
             "party": "D",
             "state": "PA"
         },
         {
             "name_id": "S001145",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Schakowsky",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "S001150",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Schiff",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "S001190",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Schneider",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "S001221",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Scholten",
             "party": "D",
             "state": "MI"
         },
         {
             "name_id": "S001216",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Schrier",
             "party": "D",
             "state": "WA"
@@ -2488,7 +2495,7 @@
         },
         {
             "name_id": "S000185",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Scott (VA)",
             "party": "D",
             "state": "VA"
@@ -2502,14 +2509,14 @@
         },
         {
             "name_id": "S001157",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Scott, David",
             "party": "D",
             "state": "GA"
         },
         {
             "name_id": "S001224",
-            "vote": "Nay",
+            "vote": "Yea",
             "sort_field": "Self",
             "party": "R",
             "state": "TX"
@@ -2523,21 +2530,21 @@
         },
         {
             "name_id": "S001185",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Sewell",
             "party": "D",
             "state": "AL"
         },
         {
             "name_id": "S000344",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Sherman",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "S001207",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Sherrill",
             "party": "D",
             "state": "NJ"
@@ -2551,7 +2558,7 @@
         },
         {
             "name_id": "S001208",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Slotkin",
             "party": "D",
             "state": "MI"
@@ -2579,7 +2586,7 @@
         },
         {
             "name_id": "S000510",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Smith (WA)",
             "party": "D",
             "state": "WA"
@@ -2593,21 +2600,21 @@
         },
         {
             "name_id": "S001225",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Sorensen",
             "party": "D",
             "state": "IL"
         },
         {
             "name_id": "S001200",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Soto",
             "party": "D",
             "state": "FL"
         },
         {
             "name_id": "S001209",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Spanberger",
             "party": "D",
             "state": "VA"
@@ -2621,14 +2628,14 @@
         },
         {
             "name_id": "S001218",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Stansbury",
             "party": "D",
             "state": "NM"
         },
         {
             "name_id": "S001211",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Stanton",
             "party": "D",
             "state": "AZ"
@@ -2670,14 +2677,14 @@
         },
         {
             "name_id": "S001215",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Stevens",
             "party": "D",
             "state": "MI"
         },
         {
             "name_id": "S001159",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Strickland",
             "party": "D",
             "state": "WA"
@@ -2691,21 +2698,21 @@
         },
         {
             "name_id": "S001193",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Swalwell",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "S001223",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Sykes",
             "party": "D",
             "state": "OH"
         },
         {
             "name_id": "T000472",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Takano",
             "party": "D",
             "state": "CA"
@@ -2719,21 +2726,21 @@
         },
         {
             "name_id": "T000488",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Thanedar",
             "party": "D",
             "state": "MI"
         },
         {
             "name_id": "T000460",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Thompson (CA)",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "T000193",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Thompson (MS)",
             "party": "D",
             "state": "MS"
@@ -2761,56 +2768,56 @@
         },
         {
             "name_id": "T000468",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Titus",
             "party": "D",
             "state": "NV"
         },
         {
             "name_id": "T000481",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Tlaib",
             "party": "D",
             "state": "MI"
         },
         {
             "name_id": "T000487",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Tokuda",
             "party": "D",
             "state": "HI"
         },
         {
             "name_id": "T000469",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Tonko",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "T000474",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Torres (CA)",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "T000486",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Torres (NY)",
             "party": "D",
             "state": "NY"
         },
         {
             "name_id": "T000482",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Trahan",
             "party": "D",
             "state": "MA"
         },
         {
             "name_id": "T000483",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Trone",
             "party": "D",
             "state": "MD"
@@ -2824,7 +2831,7 @@
         },
         {
             "name_id": "U000040",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Underwood",
             "party": "D",
             "state": "IL"
@@ -2859,28 +2866,28 @@
         },
         {
             "name_id": "V000130",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Vargas",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "V000136",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Vasquez",
             "party": "D",
             "state": "NM"
         },
         {
             "name_id": "V000131",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Veasey",
             "party": "D",
             "state": "TX"
         },
         {
             "name_id": "V000081",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Velazquez",
             "party": "D",
             "state": "NY"
@@ -2908,21 +2915,21 @@
         },
         {
             "name_id": "W000797",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Wasserman Schultz",
             "party": "D",
             "state": "FL"
         },
         {
             "name_id": "W000187",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Waters",
             "party": "D",
             "state": "CA"
         },
         {
             "name_id": "W000822",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Watson Coleman",
             "party": "D",
             "state": "NJ"
@@ -2957,21 +2964,21 @@
         },
         {
             "name_id": "W000825",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Wexton",
             "party": "D",
             "state": "VA"
         },
         {
             "name_id": "W000826",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Wild",
             "party": "D",
             "state": "PA"
         },
         {
             "name_id": "W000788",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Williams (GA)",
             "party": "D",
             "state": "GA"
@@ -2992,7 +2999,7 @@
         },
         {
             "name_id": "W000808",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Wilson (FL)",
             "party": "D",
             "state": "FL"

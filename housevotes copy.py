@@ -46,13 +46,22 @@ while True:
                 metadata_dict[key] = "2"
             if key == "chamber":
                 metadata_dict[key] = "house"
+            elif key == "vote":  
+                if value() == "aye" or value() == "yes":
+                    print("YEA")
             elif key == "vote-date":
                 metadata_dict[key] = datetime.strptime(value, "%Y-%m-%d").strftime("%B %d, %Y")
             elif key == "vote-question":
                 metadata_dict[key] = value.upper()
-
+            # Extract vote summary
+            vote_summary = {}
+            totals_by_vote = root.find(".//totals-by-vote")
+        for child in totals_by_vote:
+            vote_summary[child.tag] = child.text
 
         vote_data["metadata"] = metadata_dict
+
+        vote_data["vote_summary"] = vote_summary
 
         # Extract recorded votes
         recorded_votes_list = []

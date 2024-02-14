@@ -14,6 +14,13 @@
         "vote-desc": "Impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors",
         "vote-totals": "\n"
     },
+    "vote_summary": {
+        "total-stub": "Totals",
+        "yea-total": "216",
+        "nay-total": "211",
+        "present-total": "0",
+        "not-voting-total": "4"
+    },
     "recorded_votes": [
         {
             "name_id": "A000370",

@@ -14,6 +14,13 @@
         "vote-desc": "Providing for consideration of the resolution (H.Res. 863) Impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors, and providing for consideration of the bill (H.R. 485) Protecting Health Care for All Patients Act",
         "vote-totals": "\n"
     },
+    "vote_summary": {
+        "total-stub": "Totals",
+        "yea-total": "216",
+        "nay-total": "209",
+        "present-total": "0",
+        "not-voting-total": "6"
+    },
     "recorded_votes": [
         {
             "name_id": "A000370",
