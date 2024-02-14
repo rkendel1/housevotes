@@ -2,15 +2,15 @@
     "metadata": {
         "majority": "R",
         "congress": "118",
-        "session": "2nd",
-        "chamber": "U.S. House of Representatives",
-        "rollcall-num": "42",
+        "session": "2",
+        "chamber": "house",
+        "rollcall-num": "43",
         "legis-num": "H RES 863",
-        "vote-question": "On Motion to Reconsider",
+        "vote-question": "ON AGREEING TO THE RESOLUTION, AS AMENDED",
         "vote-type": "YEA-AND-NAY",
         "vote-result": "Passed",
         "action-date": "13-Feb-2024",
-        "action-time": "7:09 PM",
+        "action-time": "7:16 PM",
         "vote-desc": "Impeaching Alejandro Nicholas Mayorkas, Secretary of Homeland Security, for high crimes and misdemeanors",
         "vote-totals": "\n"
     },
@@ -304,7 +304,7 @@
         },
         {
             "name_id": "B001297",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Buck",
             "party": "R",
             "state": "CO"
@@ -997,7 +997,7 @@
         },
         {
             "name_id": "G000579",
-            "vote": "Yea",
+            "vote": "Nay",
             "sort_field": "Gallagher",
             "party": "R",
             "state": "WI"
