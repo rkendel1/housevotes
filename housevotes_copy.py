@@ -1,5 +1,6 @@
+import os
 import requests
-import csv
+import json
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
@@ -13,40 +14,52 @@ while True:
     if response.status_code == 200:
         print(f"Processing {url}...")
 
-        # Parse the XML content
-        root = ET.fromstring(response.content)
-
         # Generate timestamp
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
-        # Define CSV file name with timestamp
-        csv_file = f"vote_data_{current_roll}_{timestamp}.csv"
+        # Check if JSON file already exists for this roll call vote and timestamp
+        json_file = f"vote_data_{current_roll}_{timestamp}.json"
+        existing_files = [f for f in os.listdir() if f.startswith(f"vote_data_{current_roll}_")]
+        if existing_files:
+            print(f"JSON file for roll call vote {current_roll} already exists. Skipping...")
+            current_roll += 1
+            continue
 
-        # Open the CSV file in write mode
-        with open(csv_file, "w", newline='') as csvfile:
-            csvwriter = csv.writer(csvfile)
+        # Parse the XML content
+        root = ET.fromstring(response.content)
 
-            # Write metadata to CSV file
-            vote_metadata = root.find(".//vote-metadata")
-            for child in vote_metadata:
-                csvwriter.writerow([child.tag, child.text])
+        # Initialize a dictionary to hold the data
+        vote_data = {}
 
-            # Write header row for recorded votes
-            csvwriter.writerow(["Name ID", "Vote", "Sort Field", "Party", "State"])
+        # Extract metadata
+        metadata_dict = {}
+        vote_metadata = root.find(".//vote-metadata")
+        for child in vote_metadata:
+            metadata_dict[child.tag] = child.text
 
-            # Find and print the recorded vote and legislator information
-            recorded_votes = root.findall(".//recorded-vote")
-            for recorded_vote in recorded_votes:
-                legislator_info = recorded_vote.find("legislator")
-                name_id = legislator_info.get("name-id")
-                vote = recorded_vote.find("vote").text
-                sort_field = legislator_info.get("sort-field")
-                party = legislator_info.get("party")
-                state = legislator_info.get("state")
-                # Write data to CSV file
-                csvwriter.writerow([name_id, vote, sort_field, party, state])
+        vote_data["metadata"] = metadata_dict
 
-        print(f"Processed {url} successfully. CSV file '{csv_file}' created.")
+        # Extract recorded votes
+        recorded_votes_list = []
+        recorded_votes = root.findall(".//recorded-vote")
+        for recorded_vote in recorded_votes:
+            legislator_info = recorded_vote.find("legislator")
+            recorded_vote_dict = {
+                "name_id": legislator_info.get("name-id"),
+                "vote": recorded_vote.find("vote").text,
+                "sort_field": legislator_info.get("sort-field"),
+                "party": legislator_info.get("party"),
+                "state": legislator_info.get("state")
+            }
+            recorded_votes_list.append(recorded_vote_dict)
+
+        vote_data["recorded_votes"] = recorded_votes_list
+
+        # Write data to JSON file
+        with open(json_file, "w") as jsonfile:
+            json.dump(vote_data, jsonfile, indent=4)
+
+        print(f"Processed {url} successfully. JSON file '{json_file}' created.")
         current_roll += 1
     else:
         print("No more results found.")
